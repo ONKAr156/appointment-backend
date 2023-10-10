@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "kate",
+      "email": "kate@gmailcom",
+      "gender": "female",
+      "mobile": "343434",
+      "date": "2023-10-03",
+      "time": "09:31",
+      "age": "55",
+      "id": 2
+    },
+    {
+      "name": "ONKAR ",
+      "email": "borgaonkar1998@gmail.com",
+      "mobile": "07057063094",
+      "gender": "male",
+      "date": "2023-10-11",
+      "time": "08:45",
+      "age": "15",
+      "id": 3
+    }
+  ]
+}
