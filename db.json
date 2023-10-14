@@ -1,24 +1,52 @@
 {
   "users": [
     {
-      "name": "kate",
-      "email": "kate@gmailcom",
-      "gender": "female",
-      "mobile": "343434",
-      "date": "2023-10-03",
-      "time": "09:31",
-      "age": "55",
-      "id": 2
+      "name": "Monkey D",
+      "surname": "Luffy",
+      "email": "dubai@gmail.com",
+      "phone": "anknfka",
+      "e_Id": "knaknf",
+      "id": 6
     },
     {
-      "name": "ONKAR ",
+      "name": "KINGO",
+      "surname": "BORGAONKAR",
+      "email": "skillhub@gmail.com",
+      "phone": "+917057063094",
+      "e_Id": "001",
+      "id": 7
+    },
+    {
+      "name": "OM",
+      "surname": "chaudhary",
       "email": "borgaonkar1998@gmail.com",
-      "mobile": "07057063094",
-      "gender": "male",
-      "date": "2023-10-11",
-      "time": "08:45",
-      "age": "15",
-      "id": 3
+      "phone": "+917057063094",
+      "e_Id": "004",
+      "id": 8
+    },
+    {
+      "name": "Atharva",
+      "surname": "Pujari",
+      "email": "borgaonkar1998@gmail.com",
+      "phone": "89898989899",
+      "e_Id": "004",
+      "id": 9
+    },
+    {
+      "name": "Soham",
+      "surname": "kulkarni",
+      "email": "borgaonkar1998@gmail.com",
+      "phone": "+917057063094",
+      "e_Id": "004",
+      "id": 10
+    },
+    {
+      "name": "MOHIT",
+      "surname": "bamhere",
+      "email": "borgaonkar1998@gmail.com",
+      "phone": "+917057063094",
+      "e_Id": "004",
+      "id": 12
     }
   ]
 }
